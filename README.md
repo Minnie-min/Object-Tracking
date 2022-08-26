@@ -1,4 +1,4 @@
-# BTS Follow Cam Maker
+# Object Follow Maker
 ![result.gif](https://github.com/kairess/bts_cam/raw/master/result.gif)  
 
 Project contains:  
